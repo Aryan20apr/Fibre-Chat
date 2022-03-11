@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "133194996418",
+    "project_id": "fibre-chat-bcc36",
+    "storage_bucket": "fibre-chat-bcc36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133194996418:android:8cc9881e30124cefa7795b",
+        "android_client_info": {
+          "package_name": "com.example.fibrechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133194996418-9k1bpfmuou6eim6mis7m5g9ld8dp6k4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fibrechat",
+            "certificate_hash": "36d8dff6cd9d866aceb67349efe62be75b5f8469"
+          }
+        },
+        {
+          "client_id": "133194996418-pt4o8mus8fjcenal1oi3khg7v2jquf6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIZbvD9gzcJqC-agn1exYVRjb7W6kL26E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133194996418-pt4o8mus8fjcenal1oi3khg7v2jquf6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
